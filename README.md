@@ -1,1 +1,1 @@
-# start
+Credit to https://github.com/juxtopposed/ascii-rickroll-js
